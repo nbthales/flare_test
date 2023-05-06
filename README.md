@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/flare_test/raw/022665feac0f9e43d2cf758d63ab8b6b53dd9652/assets/flare_test.gif)
+![Alt Text](https://github.com/nbthales/flare_test/blob/master/assets/flare_test.gif?raw=true)
